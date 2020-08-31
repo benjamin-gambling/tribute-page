@@ -5,7 +5,7 @@ html {
   font-size: 10px
 }
 
-Body{
+body{
  /* Native font stack https://getbootstrap.com/docs/4.2/content/reboot/#native-font-stack */
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
   font-size:1.3rem;
